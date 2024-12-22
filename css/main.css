@@ -1324,6 +1324,7 @@ hr {
   .col-md-4 {
     flex: 0 0 100%; /* Stack columns on smaller screens */
   }
+  
 }
 
 /* Contact Area Styles */
