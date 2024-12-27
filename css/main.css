@@ -688,7 +688,7 @@ hr {
 .about-area .about-img img {
   background-color: transparent;
   border-color: rgba(0, 0, 0, 0.18);
-  width: 400px;
+  width: 500px;
 }
 
 .about-area .about-content .content-subtitle {
@@ -742,7 +742,7 @@ hr {
 @media (min-width: 992px) and (max-width: 1199.98px) {
   .about-area .about-img img {
     -o-object-fit: cover;
-    height: 440px;
+    height: 500px;
     object-fit: cover;
   }
 
@@ -773,10 +773,10 @@ hr {
     -o-object-fit: cover;
     border-radius: 50%;
     display: block;
-    height: 250px;
+    height: 350px;
     margin: 0 auto 40px auto;
     object-fit: cover;
-    width: 250px;
+    width: 320px;
   }
 
   .about-area .about-content .content-subtitle {
@@ -804,8 +804,8 @@ hr {
 
 @media (max-width: 767.98px) {
   .about-area .about-img img {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 270px;
   }
 
   .about-area .about-content .content-info > .row:last-child .single-info {
@@ -1324,7 +1324,6 @@ hr {
   .col-md-4 {
     flex: 0 0 100%; /* Stack columns on smaller screens */
   }
-  
 }
 
 /* Contact Area Styles */
